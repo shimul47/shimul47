@@ -13,7 +13,7 @@
  </div>
  
 <div align="center"> 
-  <a href="https://shimul47-portfolio.netlify.app" target='_blank'>
+  <a href="https://shimul47-portfolio.netlify.app" target='blank'>
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=portfolio&logoColor=red"/>
   </a>
   <a href="https://linkedin.com/in/shimul47" target="_blank">
