@@ -2,15 +2,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sohanur+Rahman+Shimul;" />
 </h1>
 
-<h3 align="center">A passionate  developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 <br/>
 
 <div align="center">
  
- 🌱 I’m currently learning **DSA, MERN STACK**
-
- </div>
+ 🌱 **Backend Developer**
+ 
+</div>
  
 <div align="center"> 
   <a href="https://shimul47-portfolio.netlify.app" target='blank'>
@@ -19,23 +19,35 @@
   <a href="https://linkedin.com/in/shimul47" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<hr/>
+
+<h2 align="center">💼 Work Experience 💼</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,java,mysql" /><br>
-</div>
 
+<div align="center">
+
+**Software Developer Intern**  
+📍 Appinion BD Limited  
+     Oct'25 - Jan'26
+
+• Worked with Laravel & PHP for backend development   
+• Worked with MySQL database design and optimization  
+• Collaborated with senior developers on real-world projects  
+</div>
 <br/>
 <hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
 
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=python,java,laravel,react" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,mysql,github" /><br>
+</div>
 
+<br/>
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -53,9 +65,13 @@
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!;I'm+always+down+to+collab">
 </h3>
+
 <br/>
-</hr>
+
 <div align=center>
-  <a href="https://linkedin.com/in/shimul47"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/shimul47">
+    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
+  </a>
 </div>
+
 <br/>
